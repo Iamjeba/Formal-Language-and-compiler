@@ -1,0 +1,19 @@
+1  
+2 
+3 Identifier x1 Operator = Numeric Constant 3.125 Separator ; Separator ; Separator ; 
+4 Identifier f2 Parenthesis ( Parenthesis ) 
+5  
+6 Keyword double Identifier f1 Parenthesis ( Keyword float Identifier a Separator , Keyword int Keyword int Identifier x Parenthesis ) 
+7 Parenthesis { Keyword if Parenthesis ( Identifier x Operator < Identifier x1 Parenthesis ) 
+8 Keyword double Identifier z Separator ; Separator ; 
+9 Keyword else Identifier z Operator = Numeric Constant 0.01 Separator ; Parenthesis } Parenthesis } 
+10 Keyword if Parenthesis ( Parenthesis ) Separator ; 
+11 Keyword else Keyword return Identifier z Separator ; 
+12 Parenthesis } 
+13 
+14 Keyword int Identifier main Parenthesis ( Keyword void Parenthesis ) 
+15 Parenthesis { Parenthesis { Parenthesis { Parenthesis { 
+16 Keyword int Identifier n1 Separator ; Keyword double Identifier z Separator ; 
+17 Keyword else Keyword return Numeric Constant 4 Separator ; 
+18 Keyword for Parenthesis ( Separator ; Separator ; Separator ; Parenthesis ) 
+19 Identifier n1 Operator = Numeric Constant 25 Separator ; Identifier z Operator = Identifier f1 Parenthesis ( Identifier n1 Parenthesis ) Separator ; Parenthesis } 

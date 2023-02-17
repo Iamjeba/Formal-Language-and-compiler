@@ -1,0 +1,1 @@
+[float] [Identifier x1] [=] [3.125] [;] [double] [Identifier f1] [(] [int] [Identifier x] [)] [{] [double] [Identifier z] [;] [Identifier z] [=] [0.01] [;] [return] [Identifier z] [;] [}] [int] [Identifier main] [(] [void] [)] [{] [int] [Identifier n1] [;] [double] [Identifier z] [;] [Identifier n1] [=] [25] [;] [Identifier z] [=] [Identifier f1] [(] [Identifier n1] [)] [;] [}] 

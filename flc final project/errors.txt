@@ -1,0 +1,16 @@
+Duplicate token at line 3
+Duplicate token at line 3
+Duplicate token at line 6
+Duplicate token at line 8
+Misplaced } at line 9
+Misplaced } at line 12
+else without previous if at line 17
+Expected } at line 24
+Expected } at line 24
+Expected } at line 24
+Expected declaration of Identifier x1 at line 3
+Expected declaration of function f2 at line 3
+Expected declaration of Identifier b at line 20
+Expected declaration of Identifier n1 at line 21
+Expected declaration of Identifier b at line 22
+Expected declaration of Identifier c at line 23
